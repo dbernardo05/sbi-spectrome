@@ -3,9 +3,13 @@ simulation-based inference of spectral graph model
 
 ## Required packages
 jupyter-lab
+
 spectrome
+
 sbi
+
 scikit-learn
+
 scipy
 
 ## Instructions

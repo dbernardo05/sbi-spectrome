@@ -7,6 +7,8 @@ spectrome
 sbi  
 scikit-learn  
 scipy  
+torch  
 
 ## Instructions
-Copy jupyter notebook to the notebooks folder of the spectrome installation
+1. Copy jupyter notebook to the notebooks folder of the spectrome installation
+2. Load notebook (Examples_and_Figures_SBI of SGM_20220302.ipynb) in jupyter
